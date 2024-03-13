@@ -1,0 +1,98 @@
+.box1{
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-basis: 33.3%;
+  gap: 25px;
+  padding: 10px;
+  border: 5px solid rgb(63, 168, 142);
+  margin: 20px;
+  background-color: greenyellow;
+  border-radius: 150px;
+  
+}
+.box2{
+  height: 200px;
+  width: auto;
+  display: flex;
+  align-content: center;
+  justify-items: center;
+  flex-basis: 33.3%;
+  gap: 20px;
+  padding: 10px;
+  border: 3px solid black;
+  margin: 20px;
+  background-color: rgb(61, 61, 61);
+  line-height: 25px;
+  color: black;
+  border-radius: 30px;
+}
+.box3{
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-basis: 33.3%;
+  gap: 20px;
+  padding: 10px;
+  border: 5px solid rgb(63, 168, 142);
+  margin: 2opx;
+  background-color: greenyellow;
+  border-radius: 150px;
+}
+.image{
+  margin: auto;
+}
+.img-grid{
+  display: flex;
+  grid-template-columns: repeat(auto-fit minmax(200 1fr));
+  gap: 20px;
+}
+li {
+  font-size: larger;
+  font-stretch: expanded;
+  font-weight: 200;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#image{
+  width: 50px;
+  height: 50px;
+}
+li{
+  border: 2px solid black;
+  padding: 30px;
+}
+.margin-top{
+  margin-top: 10px;
+}
+#color{
+  color: teal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+}
+.flexbox{
+  display: flex;
+  width: auto;
+  height: auto;
+  gap: 500px;
+  margin-top: 20px;
+}
+.margin {
+  padding: 10px;
+  background-color: aqua;
+  line-height: 5px;
+}
+.tile{
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 100;
+  padding: 50px;
+  margin-top: 20px;
+}
+.button{
+  padding: 3px;
+  margin-top: 4px;
+}
