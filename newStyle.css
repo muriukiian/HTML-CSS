@@ -38,11 +38,6 @@
   gap: 500px;
   margin-top: 20px;
 }
-.margin {
-  padding: 10px;
-  background-color: aqua;
-  line-height: 5px;
-}
 .tile{
   font-size: larger;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
